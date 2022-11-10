@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+div {
+    margin: 0;
+    padding: 0;
+}
+
 .mainIMG {
     height: 450px;
 }
