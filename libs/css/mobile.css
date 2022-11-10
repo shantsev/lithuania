@@ -3,6 +3,11 @@
 }
 
 @media only screen and (max-width: 450px) {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
     .mainIMG {
         height: 230px;
     }
